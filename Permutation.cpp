@@ -39,6 +39,8 @@ class Permutation
          strncpy(PermutationString,newPermutationString,len);
          PermutationString[len+1]=0;        
 }
+int main(int argc, char *argv[])
+{
 
  system("PAUSE");
   return EXIT_SUCCESS;
